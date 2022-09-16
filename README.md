@@ -1,6 +1,9 @@
 # wormsapiens.github.io
-## Opensea
+
 ## [Opensea](https://testnets.opensea.io/collection/demo256)
+
+## [Twitter](https://twitter.com/WormSapiens)
+
 
 ## Wallet TestNet
 key
