@@ -1,5 +1,5 @@
 # wormsapiens.github.io
-[Opensea](https://testnets.opensea.io/collection/demo256)
+## Opensea
 ## [Opensea](https://testnets.opensea.io/collection/demo256)
 
 ## Wallet TestNet
