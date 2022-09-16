@@ -1,8 +1,8 @@
-# wormsapiens.github.io
-
+# Worm Sapiens
 
 
 ## [Twitter](https://twitter.com/WormSapiens)
+## [Discord](https://t.co/nFvVgMluMm)
 
 ## [TestNet Opensea](https://testnets.opensea.io/collection/demo256)
 ## Wallet TestNet
