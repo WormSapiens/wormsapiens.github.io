@@ -1,6 +1,7 @@
 # Worm Sapiens
 
 
+## [Opensea](https://opensea.io/collection/wormsapiens)
 ## [Twitter](https://twitter.com/WormSapiens)
 ## [Discord](https://t.co/nFvVgMluMm)
 
